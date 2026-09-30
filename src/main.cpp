@@ -6,11 +6,11 @@
 #include <time.h>
 
 // --- KONFIGURASI WIFI & TELEGRAM ---
-const char* ssid     = "Kelas Robot";     // Ganti dengan SSID WiFi Anda
-const char* password = "kumaha aa we"; // Ganti dengan Password WiFi Anda
+const char* ssid     = "WIFI";     // Ganti dengan SSID WiFi Anda
+const char* password = "PASWORD WIFI"; // Ganti dengan Password WiFi Anda
 
-const String BOT_TOKEN = "8678194443:AAE8WJev0El1qo9Yo6pUy22T12nBQ0AtXWo";
-const String CHAT_ID   = "8954068028";
+const String BOT_TOKEN = "TOKEN BOT";
+const String CHAT_ID   = "ID USER";
 
 // --- KONFIGURASI PIN HARDWARE (JANGAN DIUBAH) ---
 #define RXD2 16
